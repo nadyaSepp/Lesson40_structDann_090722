@@ -1,0 +1,6 @@
+public class Lesson40_structDann_090722 {
+    public static void main(String[] args){
+
+    }
+
+}
